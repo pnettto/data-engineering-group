@@ -1,0 +1,490 @@
+{
+  "scotland_national_grid_energy_2024": [
+    {
+      "month": "January",
+      "total_generation_gwh": 3042,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1337,
+          "percent": 44.0,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 13370
+        },
+        "hydro": {
+          "gwh": 358,
+          "percent": 11.8,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 1790
+        },
+        "nuclear": {
+          "gwh": 629,
+          "percent": 20.7,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 9435
+        },
+        "gas": {
+          "gwh": 446,
+          "percent": 14.7,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 178400
+        },
+        "solar": {
+          "gwh": 63,
+          "percent": 2.1,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 630
+        },
+        "biomass": {
+          "gwh": 153,
+          "percent": 5.0,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 35190
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 56,
+          "percent": 1.8,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 11200
+        }
+      }
+    },
+    {
+      "month": "February",
+      "total_generation_gwh": 3041,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1374,
+          "percent": 45.2,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 13740
+        },
+        "hydro": {
+          "gwh": 363,
+          "percent": 11.9,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 1815
+        },
+        "nuclear": {
+          "gwh": 634,
+          "percent": 20.9,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 9510
+        },
+        "gas": {
+          "gwh": 409,
+          "percent": 13.4,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 163600
+        },
+        "solar": {
+          "gwh": 49,
+          "percent": 1.6,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 490
+        },
+        "biomass": {
+          "gwh": 154,
+          "percent": 5.0,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 35420
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 59,
+          "percent": 1.9,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 11800
+        }
+      }
+    },
+    {
+      "month": "March",
+      "total_generation_gwh": 3055,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1396,
+          "percent": 45.7,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 13960
+        },
+        "hydro": {
+          "gwh": 413,
+          "percent": 13.5,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 2065
+        },
+        "nuclear": {
+          "gwh": 656,
+          "percent": 21.5,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 9840
+        },
+        "gas": {
+          "gwh": 350,
+          "percent": 11.5,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 140000
+        },
+        "solar": {
+          "gwh": 43,
+          "percent": 1.4,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 430
+        },
+        "biomass": {
+          "gwh": 148,
+          "percent": 4.8,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 34040
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 49,
+          "percent": 1.6,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 9800
+        }
+      }
+    },
+    {
+      "month": "April",
+      "total_generation_gwh": 3040,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1489,
+          "percent": 49.0,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 14890
+        },
+        "hydro": {
+          "gwh": 320,
+          "percent": 10.5,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 1600
+        },
+        "nuclear": {
+          "gwh": 664,
+          "percent": 21.8,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 9960
+        },
+        "gas": {
+          "gwh": 395,
+          "percent": 13.0,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 158000
+        },
+        "solar": {
+          "gwh": 39,
+          "percent": 1.3,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 390
+        },
+        "biomass": {
+          "gwh": 125,
+          "percent": 4.1,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 28750
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 9,
+          "percent": 0.3,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 1800
+        }
+      }
+    },
+    {
+      "month": "May",
+      "total_generation_gwh": 3214,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1447,
+          "percent": 45.0,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 14470
+        },
+        "hydro": {
+          "gwh": 374,
+          "percent": 11.7,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 1870
+        },
+        "nuclear": {
+          "gwh": 686,
+          "percent": 21.3,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 10290
+        },
+        "gas": {
+          "gwh": 474,
+          "percent": 14.8,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 189600
+        },
+        "solar": {
+          "gwh": 52,
+          "percent": 1.6,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 520
+        },
+        "biomass": {
+          "gwh": 170,
+          "percent": 5.3,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 39100
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 10,
+          "percent": 0.3,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 2000
+        }
+      }
+    },
+    {
+      "month": "June",
+      "total_generation_gwh": 3246,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1460,
+          "percent": 45.0,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 14600
+        },
+        "hydro": {
+          "gwh": 469,
+          "percent": 14.4,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 2345
+        },
+        "nuclear": {
+          "gwh": 649,
+          "percent": 20.0,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 9735
+        },
+        "gas": {
+          "gwh": 473,
+          "percent": 14.6,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 189200
+        },
+        "solar": {
+          "gwh": 49,
+          "percent": 1.5,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 490
+        },
+        "biomass": {
+          "gwh": 131,
+          "percent": 4.0,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 30130
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 15,
+          "percent": 0.5,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 3000
+        }
+      }
+    },
+    {
+      "month": "July",
+      "total_generation_gwh": 3493,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1666,
+          "percent": 47.7,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 16660
+        },
+        "hydro": {
+          "gwh": 488,
+          "percent": 14.0,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 2440
+        },
+        "nuclear": {
+          "gwh": 724,
+          "percent": 20.7,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 10860
+        },
+        "gas": {
+          "gwh": 407,
+          "percent": 11.6,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 162800
+        },
+        "solar": {
+          "gwh": 66,
+          "percent": 1.9,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 660
+        },
+        "biomass": {
+          "gwh": 119,
+          "percent": 3.4,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 27370
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 23,
+          "percent": 0.6,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 4600
+        }
+      }
+    },
+    {
+      "month": "August",
+      "total_generation_gwh": 3097,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1508,
+          "percent": 48.7,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 15080
+        },
+        "hydro": {
+          "gwh": 322,
+          "percent": 10.4,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 1610
+        },
+        "nuclear": {
+          "gwh": 645,
+          "percent": 20.8,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 9675
+        },
+        "gas": {
+          "gwh": 445,
+          "percent": 14.4,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 178000
+        },
+        "solar": {
+          "gwh": 33,
+          "percent": 1.1,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 330
+        },
+        "biomass": {
+          "gwh": 98,
+          "percent": 3.2,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 22540
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 46,
+          "percent": 1.5,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 9200
+        }
+      }
+    },
+    {
+      "month": "September",
+      "total_generation_gwh": 3243,
+      "energy_sources": {
+        "wind": {
+          "gwh": 1441,
+          "percent": 44.4,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 14410
+        },
+        "hydro": {
+          "gwh": 456,
+          "percent": 14.1,
+          "emissions_per_gwh": 5,
+          "co2_emissions_tons": 2280
+        },
+        "nuclear": {
+          "gwh": 754,
+          "percent": 23.2,
+          "emissions_per_gwh": 15,
+          "co2_emissions_tons": 11310
+        },
+        "gas": {
+          "gwh": 361,
+          "percent": 11.1,
+          "emissions_per_gwh": 400,
+          "co2_emissions_tons": 144400
+        },
+        "solar": {
+          "gwh": 53,
+          "percent": 1.6,
+          "emissions_per_gwh": 10,
+          "co2_emissions_tons": 530
+        },
+        "biomass": {
+          "gwh": 156,
+          "percent": 4.8,
+          "emissions_per_gwh": 230,
+          "co2_emissions_tons": 35880
+        },
+        "coal": {
+          "gwh": 0,
+          "percent": 0.0,
+          "emissions_per_gwh": 900,
+          "co2_emissions_tons": 0
+        },
+        "imports": {
+          "gwh": 22,
+          "percent": 0.7,
+          "emissions_per_gwh": 200,
+          "co2_emissions_tons": 4400
+        }
+      }
+    }
+  ]
+}
