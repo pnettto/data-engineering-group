@@ -1,1 +1,66 @@
-# data-engineering-group
+# Project outline
+
+- Intro
+    - Group intro
+    - Group org (Roles, Trello, other tooling)
+- Topic
+    - Design thinking - divergence/convergence
+- Governance
+    - Function
+    - Challenges/Learnings
+    - Procedure file
+- Data Engineering
+    - Discovery
+        - WeDoWind open data on Wind Farm
+        - Generating data on Scottish Energy Industries with AI
+        - Searching data in the open web - Open-meteo
+    - Loading data (RAW schema)
+        - WeDoWind
+            - HUGE dataset (5GB per year)
+            - 13 different datasets
+            - Difficult comprehension for non experts
+            - Use of command line and AI to understand data
+            - Loading subset onto FILES stage
+            - Creating combined data in a table
+        - Scotting Energy Industries
+            - AI generation of JSON file
+        - Open-meteo
+            - Snowflake shotcoming on wind data
+            - Search on multiple data sources (Kaggle, Google Datasets, etc)
+                - Scottish data specificity
+                - Huge wealth of data sources on the web
+            - Combining CSV files, region specific (9 regions)
+    - Refinement process (Prep schema)
+        - Data cleaning
+            - Multiple methods
+                - Worksheets
+                - Python manipulation (pandas)
+                - Numbered Stored Procedures
+        - Definition of "refined" data
+            - Similar to RAW but clean
+    - Views creation (Model schema)
+        - Definition of "model"/delivery data
+            - Data that is immediatelly usable in visualizations
+        - Business value
+            - Analysis of Scottish energy needs and consumption patterns
+            - Generate insight on improving the energy mix of Scotland
+            - General understanting of Hill of Towie's perfomance
+                -  Potential business opportunities for wind farms (energy storage)
+        - Showcase views
+    - Dashboard
+        - Show dashboard, explain charts
+- Conclusion
+    - Outcomes
+        - Work generated interesting insights, more data needed
+    - Retrospective
+        - Start
+            - Standardization of processes (naming conventions, schema definitions, using table and column descriptions)
+            - Clearly identify the problems
+            - Using version control (Github)
+        - Stop
+            - Expecting Marketplace to deliver
+        - Continue
+            - Agile techniques
+                - Stand up meetings
+                - Trello / Scrum
+                - Pair programming       
