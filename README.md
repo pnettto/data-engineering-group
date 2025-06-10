@@ -1,4 +1,4 @@
-# **Scottish Wind Energy**  **A data engineering report**
+# **Scottish Wind Energy** - A data engineering report
 
 ## **Executive Summary**
 
